@@ -1,0 +1,44 @@
+header{
+	text-align: center;
+	background-color: #000000;
+  	background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(Entrée.jpg);
+  	background-position: center;
+  	background-size: cover;
+  	color: #ffffff;
+  	padding: 1em;
+  	font-family: arial, serif;
+  	font-size: 35px;
+}
+
+body{
+	text-align: center;
+	background-color: rgba(0,189,149,0.17);
+}
+
+#femme{
+	text-decoration: underline;
+}
+
+		#women{
+			width: 250px;
+		}
+
+		#expo{
+			width: 250px;
+		}
+
+#seconde{
+	text-decoration: underline;
+}
+
+		#stylo{
+			width: 300px;
+		}
+
+#terminal{
+	text-decoration: underline;
+}
+
+		#matiere{
+			width: 250px;
+		}
